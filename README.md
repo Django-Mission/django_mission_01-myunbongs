@@ -29,6 +29,7 @@
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/62318430/161463544-d597342f-2a9f-43b7-9821-d7e822cea6be.png">
 
 </br>
+
 ### 3. localhost:8000/lotto/result/
 
 ![image](https://user-images.githubusercontent.com/62318430/161463669-1cdbb3cf-7350-4c63-a6db-d191792d7942.png)

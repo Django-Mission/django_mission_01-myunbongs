@@ -22,7 +22,7 @@
 
 
 </br>
--------------
+
 
 ### 2. localhost:8000/lotto/ 
     - 입력 화면 
@@ -30,7 +30,7 @@
     - 예외처리 화면 (다시 입력 화면으로 돌아감) 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/62318430/161463544-d597342f-2a9f-43b7-9821-d7e822cea6be.png">
 
--------------
+
 
 </br>
 
@@ -38,3 +38,5 @@
 
 ![image](https://user-images.githubusercontent.com/62318430/161463669-1cdbb3cf-7350-4c63-a6db-d191792d7942.png)
 
+
+-------------

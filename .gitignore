@@ -1,6 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/django,venv,python,pycharm,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,venv,python,pycharm,macos
+/.idea
 
 ### Django ###
 *.log

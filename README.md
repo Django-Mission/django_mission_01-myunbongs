@@ -14,6 +14,7 @@
 - 입력 URL : `/lotto/` , 결과 URL : `/lotto/result/`
 
 </br> 
+
 # 미션 아카이빙 
 
 1. localhost:8000

@@ -13,8 +13,7 @@
 - 출력 페이지는 추출된 로또 번호를 출력한 HTML 응답
 - 입력 URL : `/lotto/` , 결과 URL : `/lotto/result/`
 
----
-## 미션 아카이빙 
+# 미션 아카이빙 
 
 1. localhost:8000
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/62318430/161463453-9c6868f5-d9a9-4fe2-9d9b-302e3bb33a1d.png">

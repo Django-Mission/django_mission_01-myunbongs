@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>입력 페이지</title>
+</head>
+<body>
+<h1>로또 번호 추출기</h1>
+<form name="fo" action="{% url 'result' %}">
+    로또 번호를 받아보세요!
+    </br>
+    몇 개의 게임을 뽑으시겠습니까?
+    </br>
+    </br>
+    <input id="input" type="text" name="count">
+    <input type="submit" value="로또 번호 추출하기" onClick="check()">
+    <br />
+</form>
+    <script>
+		var check = function() {
+			var temp = document.getElementById('input').value;
+            var form = document.fo;
+
+			if(isNaN(temp) == true) {
+                alert("숫자를 입력해주세요.");
+                form.action = "{% url 'input' %}";
+                form.submit();
+            }
+		};
+	</script>
+</body>
+</html>

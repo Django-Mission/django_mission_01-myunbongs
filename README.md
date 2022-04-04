@@ -17,19 +17,19 @@
 
 # 미션 아카이빙 
 
-1. localhost:8000
+### 1. localhost:8000
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/62318430/161463453-9c6868f5-d9a9-4fe2-9d9b-302e3bb33a1d.png">
 
 </br>
 
-2. localhost:8000/lotto/ 
+### 2. localhost:8000/lotto/ 
     - 입력 화면 
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/62318430/161463481-977c3de6-97d7-422b-af48-241a7d14b6d1.png">
     - 예외처리 화면 (다시 입력 화면으로 돌아감) 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/62318430/161463544-d597342f-2a9f-43b7-9821-d7e822cea6be.png">
 
 </br>
-3. localhost:8000/lotto/result/
+### 3. localhost:8000/lotto/result/
 
 ![image](https://user-images.githubusercontent.com/62318430/161463669-1cdbb3cf-7350-4c63-a6db-d191792d7942.png)
 

@@ -1,4 +1,4 @@
-# 미션 내용 : 로또 번호 추출기 구현
+# 미션 내용 : 🎰 로또 번호 추출기 구현 🎰
 
 ### 미션 내용 : 로또 번호 추출기2 - 입력, 출력 분리
 
@@ -15,7 +15,7 @@
 
 </br> 
 
-# 미션 아카이빙 
+# 📁 미션 아카이빙 📁
 
 ### 1. localhost:8000
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/62318430/161463453-9c6868f5-d9a9-4fe2-9d9b-302e3bb33a1d.png">
